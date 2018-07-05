@@ -10,7 +10,7 @@ I do not have a job and I was getting bored. Then on reddit I saw someone sharin
        
        
 ![alt text]( https://github.com/supersuyash/project/blob/master/Whatsapp/Pictures/word%20embedding%20of%20our%20chat.png )
-       I used gensim word2vec to create embedding, just out of curiosity. It gives a cool pattern
+       Just out of curiosity, I used gensim `word2vec` to create embedding. It gives a cool pattern. Code was taken from one of Siraj raval's video
 
 ## How to use?
 This project was made in Jupyter Notebook and graphs were made using Tableau.
