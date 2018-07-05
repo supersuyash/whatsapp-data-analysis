@@ -1,5 +1,5 @@
 # Whatsapp Data analysis
-I took data from my college friends group from Whatsapp. Cleaned it, add more features, such as  to evaluate more from data  `cursing` and `multi` which tells if text has some cursing and if the text was of some shared image/video/gif or link, and tried to make something good out of it. Final output is created using Tableau. Can be seen [here](https://public.tableau.com/profile/suyash.gulati#!/vizhome/Thebillionairesclub/Story1)
+I took data from my college friends group from Whatsapp. Cleaned it, add more features, such as  to evaluate more from data  `cursing` and `multi` which tells if text has some cursing and if the text was of some shared image/video/gif or link, and tried to make something good out of it. Final output is created using Tableau. It can be seen [here](https://public.tableau.com/profile/suyash.gulati#!/vizhome/Thebillionairesclub/Story1)
 ## Motivation
 I do not have a job and I was getting bored. Then on reddit I saw someone sharing their insights on **r/dataisbeautiful**. So I gave a shot to make something beautiful out of the trash we talk.
 
